@@ -1,3 +1,16 @@
+# Context API Example
+
+The Context API, for React, creats a "Global" state for your application. This allows any component acces to the same state across the application...no more "prop drilling".
+
+Please see the comments in the code for explanation on how to use.
+
+This is a simple demontration. Example; the "message" button only works once when it comes to updating the myName value...i did not reset it you can do that yourself or refresh the page. There is no real error handling...only for the api call. Its not a fully fleshed out application!
+
+`npm install` to get your node modules
+
+everything else is react
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
